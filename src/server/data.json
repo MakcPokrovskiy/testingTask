@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "constructor",
+      "password": "pas1"
+    }
+  ],
+  "constructors": [
+    {
+      "id": 1,
+      "name": "Иванов И. И."
+    },
+    {
+      "id": 2,
+      "name": "Петров П. П."
+    },
+    {
+      "id": 3,
+      "name": "Сидоров С. С."
+    }
+  ],
+  "app": [
+    {
+      "id": 1,
+      "constructorId": 1,
+      "documentName": "ГОСТ 123",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "constructorId": 1,
+      "documentName": "ГОСТ Р 125",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "constructorId": 1,
+      "documentName": "ГОСТ 456",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "constructorId": 2,
+      "documentName": "ГОСТ 789",
+      "count": 1
+    },
+    {
+      "id": 5,
+      "constructorId": 2,
+      "documentName": "ГОСТ РВ 0009",
+      "count": 1
+    },
+    {
+      "id": 6,
+      "constructorId": 2,
+      "documentName": "ГОСТ 123",
+      "count": 1
+    },
+    {
+      "id": 7,
+      "constructorId": 3,
+      "documentName": "ГОСТ Р 125",
+      "count": 1
+    },
+    {
+      "id": 8,
+      "constructorId": 3,
+      "documentName": "ГОСТ 789",
+      "count": 1
+    },
+    {
+      "id": 9,
+      "constructorId": 3,
+      "documentName": "ГОСТ 456",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+  .title {
+    font-size: 44px;
+    margin-bottom: 20px;
+    letter-spacing: 1.5px;
+  }
+
+  .formName, .formPas {
+    padding: 8px 12px;
+    font-size: 20px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+
+  .formBtn{
+    padding: 5px;
+    margin-bottom: 15px;
+  }
+
+}
